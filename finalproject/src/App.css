@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+
+
+.center{
+  display:flex;
+  justify-content: center;
+}
+
+
+.particles{
+  position: fixed; /*allows everything to stay right where it is*/
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1; /*ensure everything is under rest of app. I want image to be below everything else in my website */
+}
