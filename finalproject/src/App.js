@@ -13,7 +13,7 @@ import 'tachyons';
 //Configurations
 
 const app = new Clarifai.App({
-  apiKey: '2ddb5b48364e4b8cbe11a381e06c7352'
+  apiKey: ''
 });
 
 
